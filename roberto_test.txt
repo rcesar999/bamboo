@@ -4,3 +4,4 @@ show virt vm <VMNAME> install
 @sleep 30
 show erfstream pipe brief
 @sleep 5
+# to trigger Bamboo Run
