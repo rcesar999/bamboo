@@ -292,7 +292,7 @@ def main():
 
     sess.cpu_virt_list = sess.read_cpu_virt()
     print sess.cpu_virt_list
-    print 'oi"
+    print 'oi'
     print sess.cpu_virt_list
     
 
