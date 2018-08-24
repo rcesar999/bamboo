@@ -294,6 +294,7 @@ def main():
     print sess.cpu_virt_list
     print 'oi'
     print sess.cpu_virt_list
+    print "Git Test"
     
 
     # Open connection to host
