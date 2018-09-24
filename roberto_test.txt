@@ -1,5 +1,6 @@
 # Used with cliconfig.py to stop and delete a VM
 en
+@timeout 20
 show virt vm <VMNAME> install
 @sleep 30
 show erfstream pipe brief
